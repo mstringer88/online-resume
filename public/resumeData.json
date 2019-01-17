@@ -1,0 +1,177 @@
+{
+  "main": {
+    "name":"Michael Stringer",
+    "occupation":"Junior Web Developer",
+    "description":"who has realized a passion for web development and is looking to pursue a career doing something that I enjoy",
+    "image":"profilepic.jpg",
+    "bio":"I am a recent coding bootcamp graduate that currently lives in Birmingham, AL with my wife Tamara and our golden retriever Jax. I spent several years in the military before I decided to go to college and pursue other opportunities. After graduation from college I worked in my field of study but realized I did not enjoy it. I was exposed to coding and web development while searching for the next opportunity in my professional career. I took the opportunity to take a coding bootcamp and am now pursuing the opportunities to do something I enjoy doing.",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "mstringer09@yahoo.com",
+    "phone": "",
+    "address":{
+      "street":"",
+      "city":"Birmingham",
+      "state":"Alabama",
+      "zip": ""
+    },
+    "website": "http://www.michaelstringerdev.com",
+    "resumedownload":"/Michael_Stringer.pdf",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"http://facebook.com/michael.stringer.94",
+        "className":"fa fa-facebook"
+      },
+    
+     
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/michael-stringer-09/",
+        "className":"fa fa-linkedin"
+      },
+      
+      {
+        "name":"github",
+        "url":"http://github.com/mstringer88",
+        "className":"fa fa-github"
+      }
+     
+    ]
+  },
+  "resume":{
+    "skillmessage":"",
+    "education":[
+      {
+        "school":"Covalence Coding Bootcamp",
+        "degree":"Full Stack Development Ceritificate",
+        "graduated": "October 2018",
+        "description": ""
+      },
+      {
+        "school":"University of Alabama at Birmingham",
+        "degree":"Bachelor of Science in Industrial Distribution",
+        "graduated":"May 2016",
+        "description1":"Concentration in Medical Equipment and Supply Distribution. ",
+        "description2":"Recipient of Academic Achievement Award for being ranked amongst Top 15% of department students"
+      },
+      {
+        "school":"Jefferson State Community College",
+        "degree":"Associates of Science in Business Management",
+        "graduated":"May 2014",
+        "description1":"Dean's List"
+      }
+    ],
+    "military": [
+      {
+        "company":"United States Marine Corps",
+        "title":"Sergeant | Aviation Life Support Systems Specialist",
+        "years":"July 2006 - July 2011",
+        "description":""
+      }
+    ],
+    "otherWork": [
+      {
+        "company":"SpareTime Entertainment",
+        "title":"Bar Manager",
+        "years":"June 2017 - August 2018",
+        "description":""
+      },
+      {
+        "company":"DownStream Logistics",
+        "title":"Inventory Manager",
+        "years":"December 2016 - June 2017",
+        "description":""
+      },
+      {
+        "company":"Blue Monkey Lounge and Banzai Hospitality",
+        "title":"Bartender",
+        "years":"April 2014 - December 2016",
+        "description":""
+      },
+      {
+        "company":"G4S Secure Solutions",
+        "title":"Custom Protection Officer",
+        "years":"October 2011 - June 2012",
+        "description":""
+      }
+    ],
+    "skills":[
+      {
+        "name":"Git",
+        "image": "github.png"
+      },
+      {
+        "name":"bootstrap",
+        "image":"bootstrap.png"
+      },
+      {
+        "name":"CSS",
+        "image":"css.jpg"
+      },
+      {
+        "name":"Heroku",
+        "image":"heroku.png"
+      },
+      {
+        "name":"HTML",
+        "image":"html.jpg"
+      },
+      {
+        "name":"JavaScript",
+        "image":"javascript.jpg"
+      },
+      {
+        "name":"JQuery",
+        "image":"jquery.png"
+      },
+      {
+        "name":"MySql",
+        "image":"mysql.png"
+      },
+      {
+        "name":"NodeJS",
+        "image":"nodejs.png"
+      },
+      {
+        "name":"React",
+        "image":"react.jpg"
+      },
+      {
+        "name":"Sass",
+        "image":"sass.png"
+      },
+      {
+        "name":"TypeScript",
+        "image":"typescript.png"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Student Success Webapp",
+        "category":"",
+        "image":"Student-Success-Webapp.png",
+        "url":"https://github.com/mstringer88/student-sucess-webapp"
+      },
+      {
+        "title":"Personal Blog",
+        "category":"",
+        "image":"Blog_pic.png",
+        "url":"https://github.com/mstringer88/mikes-blog-yall"
+      },
+      {
+        "title":"Online Resume",
+        "category":"",
+        "image":"Online-Resume.png",
+        "url":"https://github.com/mstringer88/student-sucess-webapp"
+      },
+      {
+        "title":"Chirpr",
+        "category":"",
+        "image":"Chirpr.png",
+        "url":"https://github.com/mstringer88/Prepping-Front-and-Back-End"
+      }
+    ]
+  }
+}
