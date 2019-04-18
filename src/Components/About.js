@@ -37,7 +37,7 @@ export default class About extends Component {
               <aside className="four columns footer-widgets">
                 <div className="columns download">
                   <p>
-                    <a  href='Michael_Stringer.pdf' download ><button type="button" className="button"><i className="fa fa-download"></i>Download Resume</button></a>
+                    <a  href='Michael Stringer Resume.pdf' download ><button type="button" className="button"><i className="fa fa-download"></i>Download Resume</button></a>
                    </p>
                 </div>
               </aside>
